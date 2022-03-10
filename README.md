@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm an ADA ITW student, finishing my FrontEnd Developer degree in a few weeks!. My technical stack involve HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS  and REACT. I love to learn and build something new, productive, innovative and creative.
-- 🔥 **I am interested in Web designing**
+- 🔥 **I am interested in web design and being able to apply everything learned**
 - 🌱 I’m currently learning ...
   - REACT
   - Android development
