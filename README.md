@@ -13,4 +13,4 @@ I'm an ADA ITW student, finishing my FrontEnd Developer degree in a few weeks!. 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!
 - 🎵 I like listening to music, 📖 read novels, and 🌎 travel the world
-- - 📫 <a href="https://www.linkedin.com/in/brenda-lamas-597b79145/">Contact me</a>
+- 📫 <a href="https://www.linkedin.com/in/brenda-lamas-597b79145/">Contact me</a>
