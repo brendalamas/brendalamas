@@ -10,7 +10,6 @@ I'm an ADA ITW student, finishing my FrontEnd Developer degree in a few weeks!. 
 - 🔥 **I am interested in web design and being able to apply everything learned**
 - 🌱 I’m currently learning ...
   - REACT
-  - Android development
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 🎵 listen to music, 📖 I love to read novels, and 🌴 explore nature outdoors.
