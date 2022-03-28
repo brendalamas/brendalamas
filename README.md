@@ -4,7 +4,7 @@
 <!-- **brendalamas/brendalamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 Soy Bren 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW en marzo 2022. Acá vas a poder encontrar proyectos que fui realizando durante mi cursada, y proyectos propios que utilice como práctica para mejorar como programadora 💪
 - **Tecnologias: HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS  and REACT**
