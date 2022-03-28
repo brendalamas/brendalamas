@@ -1,4 +1,4 @@
-### Hello! Brenda here. 👋
+### Hola, bienvenido/a!👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=brendalamas.repoName) [![GitHub followers](https://img.shields.io/github/followers/brendalamas.svg?style=social&label=Follow)](https://github.com/brendalamas?tab=followers)<br/>
 
 <!-- **brendalamas/brendalamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -6,11 +6,14 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm an ADA ITW student, finishing my FrontEnd Developer degree in a few weeks!. My technical stack involve HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS  and REACT. I love to learn and build something new, productive, innovative and creative.
-- 🔥 **I am interested in web design and being able to apply everything learned**
-- 🌱 I’m currently learning ...
-  - REACT
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help!
-- 🎵 I like listening to music, 📖 read novels, and 🌎 travel the world
-- 📫 <a href="https://www.linkedin.com/in/brenda-lamas-597b79145/">Contact me</a>
+Soy Bren 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW en marzo 2022. Acá vas a poder encontrar proyectos que fui realizando durante mi cursada, y proyectos propios que utilice como práctica para mejorar como programadora 💪
+- **Tecnologias: HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS  and REACT**
+- 🔥 Me interesa el diseño web y poder aplicar todo lo aprendido
+- 🌱 Actualmente estoy ...
+    Buscando mi primer empleo IT
+- 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
+- ✔ ¡Pregúntame sobre cualquier cosa, estoy feliz de ayudar!
+- 🎵 Me gusta escuchar música, 📖 leer novelas y 🌎 viajar por el mundo
+- 📫 <a href="https://www.linkedin.com/in/brenda-lamas-597b79145/">Contáctame</a>
+habilidad
+
