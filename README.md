@@ -8,7 +8,7 @@
 
 Soy Bren 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW en marzo 2022. Acá vas a poder encontrar proyectos que fui realizando durante mi cursada, y proyectos propios que utilice como práctica para mejorar como programadora 💪
 
-**HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS  and REACT**
+**HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS, REACT**
 - 🔥 Me interesa el diseño web y poder aplicar todo lo aprendido
 - 🌱 Actualmente estoy ...
     Realizando mi proyecto final para ADA ITW
