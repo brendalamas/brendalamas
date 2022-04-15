@@ -11,9 +11,9 @@ Soy Bren 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW en
 **HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS, REACT**
 - 🔥 Me interesa el diseño web y poder aplicar todo lo aprendido
 - 🌱 Actualmente estoy ...
-    Realizando mi proyecto final para ADA ITW
+    Realizando nuevos proyectos
 - 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
-- ✔ ¡Pregúntame sobre cualquier cosa, estoy feliz de ayudar!
+- ✔ ¡Pregúntame cualquier cosa, estoy feliz de ayudar! 
 - 🎵 Me gusta escuchar música, 📖 leer novelas y 🌎 viajar por el mundo
 - 📫 <a href="https://www.linkedin.com/in/brenda-lamas-597b79145/">Contáctame</a>
 
