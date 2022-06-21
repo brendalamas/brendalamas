@@ -10,9 +10,9 @@ Soy Brenda 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW 
 <br/> 👩🏻‍💻 Actualmente estoy trabajando en ASJ servicios 
 
 **HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS, REACT, JAVA, SQL**
-- 🔥 Me interesa el diseño web y poder aplicar todo lo aprendido
+- 🔥 Me interesa el desarrollo frontend y poder aplicar todo lo aprendido
 - 🌱 Actualmente estoy ...
-    Aprendiendo nuevas tecnologias 🚀
+    Aprendiendo JAVA, base de datos y SQL 🚀
 - 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
 - ✔ ¡Pregúntame cualquier cosa, estoy feliz de ayudar! 
 - 🎵 Me gusta escuchar música, 📖 leer novelas y 🌎 viajar por el mundo
