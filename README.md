@@ -15,6 +15,6 @@ Soy Brenda 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW 
     Aprendiendo JAVA, base de datos y SQL 🚀
 - 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
 - ✔ ¡Pregúntame cualquier cosa, estoy feliz de ayudar! 
-- 🎵 Me gusta escuchar música, 📖 leer novelas y 🌎 viajar por el mundo
+- 🎵 Me gusta escuchar música, viajar 🌎 y el vino 🍷!
 - 📫 <a href="https://www.linkedin.com/in/brenda-lamas-597b79145/">Contáctame</a>
 
