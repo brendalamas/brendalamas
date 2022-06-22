@@ -6,11 +6,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-Soy Brenda 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW en marzo 2022. Acá vas a poder encontrar proyectos que fui realizando durante mi cursada, y proyectos propios que utilice como práctica para mejorar como programadora 💪
-<br/> 👩🏻‍💻 Actualmente estoy trabajando en ASJ servicios 
+Soy Brenda 👩🏻, Desarrolladora FrontEnd Jr. Termine el bootcamp de ADA ITW en marzo 2022. Acá vas a poder encontrar proyectos que fui realizando durante mi cursada, y proyectos propios que utilice como práctica para mejorar como programadora 💪👩🏻‍💻 
 
-**HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, SASS, REACT, JAVA, SQL**
-- 🔥 Me interesa el desarrollo frontend y poder aplicar todo lo aprendido
+**HTML5, CSS3, GitHub, Responsive Design, JS, BULMA, BOOTSTRAP, SASS, REACT, JAVA, SQL**
+- 🔥 Me interesa el desarrollo frontend y poder aplicar todo lo aprendido!
 - 🌱 Actualmente estoy ...
     Aprendiendo JAVA, base de datos y SQL 🚀
 - 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
